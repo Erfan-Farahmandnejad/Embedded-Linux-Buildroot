@@ -1,6 +1,6 @@
-# Building a Lightweight Custom OS with Buildroot🐧🐧
+# Building a Lightweight Custom OS with Buildroot🐧
 
-This repository documents the process of building a minimal, custom Linux distribution from scratch for the `x86_64` architecture. The project leverages the **Buildroot** automation tool to configure, compile, and generate a bootable OS image, demonstrating key concepts in embedded systems and operating system design. This was completed as a final project for the Operating Systems course at the University of Isfahan.
+This repository documents the process of building a minimal, custom Linux distribution from scratch for the `x86_64` architecture. The project leverages the **Buildroot** automation tool to configure, compile, and generate a bootable OS image, demonstrating key concepts in embedded systems and operating system design.
 
 
 ## Project Overview
